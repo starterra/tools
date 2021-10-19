@@ -28,6 +28,15 @@ where
 
 Just grab these data, maybe you are able to prepare some cool data vis? let me know!
 
+### 3. User guides
+
+[/stt-guides](./stt-guides)
+<br> Explained in simple words how to check some service features in more hard (techy) way. Good place to learn how our smart contracts works.
+
+- [How to check AirDrop?](./stt-guides/airdrop.md)
+- [How to check KYC and TOU status?](./stt-guides/kyc_tou.md)
+- [How to check $LOOP IDO participation?](./stt-guides/ido.md)
+
 ## Your idea here
 
 [/discussion](https://github.com/starterra/tools/discussions)
