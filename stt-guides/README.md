@@ -2,3 +2,4 @@
 - [How to check KYC and TOU status?](./kyc_tou.md)
 - [How to check $LOOP IDO participation?](./ido_loop.md)
 - [How to check prefund value?](./stt-guides/prefund.md)
+- [How to check if user is in squadron?](./stt-guides/user_in_squadron.md)
