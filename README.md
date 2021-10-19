@@ -36,6 +36,7 @@ Just grab these data, maybe you are able to prepare some cool data vis? let me k
 - [How to check AirDrop?](./stt-guides/airdrop.md)
 - [How to check KYC and TOU status?](./stt-guides/kyc_tou.md)
 - [How to check $LOOP IDO participation?](./stt-guides/ido_loop.md)
+- [How to check prefund value?](./stt-guides/prefund.md)
 
 ## Your idea here
 

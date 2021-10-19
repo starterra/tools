@@ -1,3 +1,4 @@
 - [How to check AirDrop?](./airdrop.md)
 - [How to check KYC and TOU status?](./kyc_tou.md)
 - [How to check $LOOP IDO participation?](./ido_loop.md)
+- [How to check prefund value?](./stt-guides/prefund.md)
