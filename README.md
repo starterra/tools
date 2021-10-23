@@ -39,6 +39,11 @@ Just grab these data, maybe you are able to prepare some cool data vis? let me k
 - [How to check prefund value?](./stt-guides/prefund.md)
 - [How to check if user is in squadron?](./stt-guides/user_in_squadron.md)
 
+### 4. Recruits lottery script
+
+[/ste-ido-lottery](./ste-ido-lottery)
+<br> Simple script which will select in random way the winners for the lottery based allocation for recruits tier.
+
 ## Your idea here
 
 [/discussion](https://github.com/starterra/tools/discussions)
