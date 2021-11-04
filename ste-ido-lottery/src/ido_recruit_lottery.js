@@ -15,27 +15,20 @@ candidatesStream
         }
     })
     .on('end', () => {
-        const randomWinnersIndexes = getRandomWinners(numberOfWinners, candidates);
-        randomWinnersIndexes.forEach(element => {
-            resultStream.write(`${candidates[element.int].address}\n`)
+        const randomWinnersAddresses = getRandomWinners(numberOfWinners, candidates);
+        randomWinnersAddresses.forEach(element => {
+            resultStream.write(`${element}\n`)
         });
     });
 
 const getRandomWinners = (quantity, array) => {
-    const arr = []
-    const max = array.length - 1
-    while (arr.length < quantity) {
-        var candidateInt = Math.floor(Math.random() * max) + 1;
-        if (arr.indexOf(candidateInt) === -1) {
-            let isAlreadyAdded = arr.find(e => e.address === array[candidateInt].address)
-            if (isAlreadyAdded === undefined) {
-                var toAdd = {
-                    int: candidateInt,
-                    address: array[candidateInt].address
-                }
-                arr.push(toAdd)
-            }
+    let winners = []
+    while (winners.length < quantity) {
+        let candidateIndex = Math.floor(Math.random() * array.length)
+        let candidateAddress = array[candidateIndex].address
+        if (winners.indexOf(candidateAddress) === -1) {
+            winners.push(candidateAddress)
         }
     }
-    return (arr)
+    return (winners)
 }
