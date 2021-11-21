@@ -38,6 +38,7 @@ Just grab these data, maybe you are able to prepare some cool data vis? let me k
 - [How to check $LOOP IDO participation?](./stt-guides/ido_loop.md)
 - [How to check prefund value?](./stt-guides/prefund.md)
 - [How to check if user is in squadron?](./stt-guides/user_in_squadron.md)
+- [How to check NFT from Deviants?](./stt-guides/deviants-nft.md)
 
 ### 4. Recruits lottery script
 
