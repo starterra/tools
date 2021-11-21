@@ -7,7 +7,8 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "ido_recruit_lottery": "node --experimental-specifier-resolution=node src/ido_recruit_lottery.js"
+    "ido_recruit_lottery": "node --experimental-specifier-resolution=node src/ido_recruit_lottery.js",
+    "ido_faction_lottery": "node --experimental-specifier-resolution=node src/ido_faction_lottery.js"
   },
   "dependencies": {
     "csv-parser": "^3.0.0",

@@ -1,11 +1,14 @@
 import * as fs from 'fs';
 import csv from 'csv-parser';
 
+var args = process.argv.slice(2);
 const pathToData = './data/';
-const candidatesStream = fs.createReadStream(`${pathToData}recruits.csv`);
-const resultStream = fs.createWriteStream(`${pathToData}recruits_lottery_results.csv`);
-const numberOfWinners = 999;
+const candidatesStream = fs.createReadStream(`${pathToData}faction_${args[0]}.csv`);
+const resultStream = fs.createWriteStream(`${pathToData}faction_lottery_${args[0]}_results.csv`);
+const numberOfWinners = +args[1];
 const candidates = [];
+
+
 
 candidatesStream
     .pipe(csv())
