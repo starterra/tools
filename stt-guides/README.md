@@ -7,3 +7,4 @@
 - [How to check STT staking balance?](./stt_staking.md)
 - [How to check LP staking balance?](./lp_staking.md)
 - [How to check LP lockup in Astroport Lockdrop?](./astro_lockdrop.md)
+- [How to check Solana wallet provided during SolChicks IDO?](./solana_wallet_solchicks.md)
