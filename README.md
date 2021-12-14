@@ -41,6 +41,7 @@ Just grab these data, maybe you are able to prepare some cool data vis? let me k
 - [How to check NFT from Deviants?](./stt-guides/deviants_nft.md)
 - [How to check STT staking balance?](./stt-guides/stt_staking.md)
 - [How to check LP staking balance?](./stt-guides/lp_staking.md)
+- [How to check LP lockup in Astroport Lockdrop?](./stt-guides/astro_lockdrop.md)
 
 ### 4. Recruits lottery script
 

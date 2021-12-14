@@ -6,3 +6,4 @@
 - [How to check NFT from Deviants](./deviants_nft.md)
 - [How to check STT staking balance?](./stt_staking.md)
 - [How to check LP staking balance?](./lp_staking.md)
+- [How to check LP lockup in Astroport Lockdrop?](./astro_lockdrop.md)
