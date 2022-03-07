@@ -1,0 +1,12 @@
+---
+version: 2
+
+updates:
+  - package-ecosystem: "npm"
+    directory: "/ste-calculator"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "npm"
+    directory: "/ste-ido-lottery"
+    schedule:
+      interval: "daily"
