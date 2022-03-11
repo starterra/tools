@@ -19,16 +19,7 @@ where
 
 `TERRA_ADDRESS` is your (or someone else) address from Terra blockchain.
 
-### 2. STT Staking Results with STE
-
-[/ste-staking-results](./ste-staking-results)
-<br> Periodically generated data including STT stakers, LP stakers and the value of STE splitted into factions.
-
-#### How to use?
-
-Just grab these data, maybe you are able to prepare some cool data vis? let me know!
-
-### 3. User guides
+### 2. User guides
 
 [/stt-guides](./stt-guides)
 <br> Explained in simple words how to check some service features in more hard (techy) way. Good place to learn how our smart contracts works.
@@ -43,11 +34,6 @@ Just grab these data, maybe you are able to prepare some cool data vis? let me k
 - [How to check LP staking balance?](./stt-guides/lp_staking.md)
 - [How to check LP lockup in Astroport Lockdrop?](./stt-guides/astro_lockdrop.md)
 - [How to check Solana wallet provided during SolChicks IDO?](./stt-guides/solana_wallet_solchicks.md)
-
-### 4. Recruits lottery script
-
-[/ste-ido-lottery](./ste-ido-lottery)
-<br> Simple script which will select in random way the winners for the lottery based allocation for recruits tier.
 
 ## Your idea here
 
