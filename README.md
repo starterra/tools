@@ -34,6 +34,7 @@ where
 - [How to check LP staking balance?](./stt-guides/lp_staking.md)
 - [How to check LP lockup in Astroport Lockdrop?](./stt-guides/astro_lockdrop.md)
 - [How to check Solana wallet provided during SolChicks IDO?](./stt-guides/solana_wallet_solchicks.md)
+- [How to check the number of squadron members?](./stt-guides/squadrons.md)
 
 ## Your idea here
 
