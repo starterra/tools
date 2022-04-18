@@ -26,12 +26,11 @@ where
 
 - [How to check AirDrop?](./stt-guides/airdrop.md)
 - [How to check KYC and TOU status?](./stt-guides/kyc_tou.md)
-- [How to check $LOOP IDO participation?](./stt-guides/ido_loop.md)
+- [How to check IDO participation?](./stt-guides/ido_participation.md)
 - [How to check prefund value?](./stt-guides/prefund.md)
 - [How to check if user is in squadron?](./stt-guides/user_in_squadron.md)
 - [How to check NFT from Deviants?](./stt-guides/deviants_nft.md)
 - [How to check STT staking balance?](./stt-guides/stt_staking.md)
-- [How to check LP staking balance?](./stt-guides/lp_staking.md)
 - [How to check LP lockup in Astroport Lockdrop?](./stt-guides/astro_lockdrop.md)
 - [How to check Solana wallet provided during SolChicks IDO?](./stt-guides/solana_wallet_solchicks.md)
 - [How to check the number of squadron members?](./stt-guides/squadrons.md)
